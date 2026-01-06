@@ -1,0 +1,7 @@
+﻿timestamp,device,interface,event_type,severity,description
+12/8/2026 17:19,cb2b-1,Tunnel12042,neighbor 10.70.194.133 Down,critical,BGP DOWN
+12/9/2026 3:17,cb2b-1,Tunnel12042,neighbor 10.70.194.133 Up,critical,BGP UP
+9/28/2026 1:56,cb2b-2,Tunnel11042,neighbor 10.70.130.149 Down,critical,BGP DOWN
+9/28/2026 4:15,cb2b-2,Tunnel11042,neighbor 10.70.130.149 Up,critical,BGP UP
+10/20/2026 5:15,cb2b-2,GigabitEthernet0/0/1,changed state to down,warning,Gi0/0/1 DOWN
+10/20/2026 5:15,cb2b-2,GigabitEthernet0/0/1,changed state to up,warning,Gi0/0/1 UP
